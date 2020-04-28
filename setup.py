@@ -52,7 +52,7 @@ if __name__ == '__main__':
         version=version,
         author="Hang Zhang",
         author_email="zhanghang0704@gmail.com",
-        url="https://github.com/zhanghang1989/PyTorch-Encoding",
+        url="https://github.com/jakefleisig/PyTorch-Encoding",
         description="PyTorch Encoding Package",
         long_description=open('README.md').read(),
         long_description_content_type='text/markdown',
